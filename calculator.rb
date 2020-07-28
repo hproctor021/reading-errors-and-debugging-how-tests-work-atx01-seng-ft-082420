@@ -1,1 +1,3 @@
-first_number = "Hello world!"
+first_number = interger or Float
+
+second_number
